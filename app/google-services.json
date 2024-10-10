@@ -7,7 +7,7 @@
   "client": [
     {
       "client_info": {
-        "mobilesdk_app_id": "1:591737926251:android:a9d3afc3e4383764dc772e",
+        "mobilesdk_app_id": "",
         "android_client_info": {
           "package_name": "com.cho.airquality"
         }
